@@ -1,0 +1,9 @@
+00 - Maratona Java Virado No Jiraya - Bem Vindo
+01 - O que esperar do curso
+02 - Como Java Funciona
+03 - Fazendo o download da JDK 15
+04 - Configurando variáveis de ambiente
+05 - Executando compilação manualmente
+06 - Download da IDE IntelliJ Community
+07 - Conhecendo a IDE IntelliJ Community
+08 - Organizando o código em pacotes
