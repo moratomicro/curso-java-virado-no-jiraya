@@ -8,5 +8,7 @@
 07 - Conhecendo a IDE IntelliJ Community;
 08 - Organizando o código em pacotes;
 09 - Comentários;
+10 - Tipos Primitivos pt 01 - convenções de variáveis
+
 
 
