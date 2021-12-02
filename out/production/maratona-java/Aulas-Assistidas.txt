@@ -10,6 +10,6 @@
 09 - Comentários;
 10 - Tipos Primitivos pt 01 - convenções de variáveis;
 11 - Tipos Primitivos pt 02 - declaração e tamanho em memória;
-12 - Tipos Primitivos pt 03 - casting
-13 - Tipos Primitivos pt 04 - Strings
- 
+12 - Tipos Primitivos pt 03 - casting;
+13 - Tipos Primitivos pt 04 - Strings;
+14 - Tipos Primitivos pt 05 - Exercícios;
