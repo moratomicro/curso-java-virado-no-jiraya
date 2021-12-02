@@ -13,3 +13,4 @@
 12 - Tipos Primitivos pt 03 - casting;
 13 - Tipos Primitivos pt 04 - Strings;
 14 - Tipos Primitivos pt 05 - Exercícios;
+15 - Operadores pt 01 - Aritiméticos;
