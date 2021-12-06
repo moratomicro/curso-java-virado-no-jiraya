@@ -19,7 +19,5 @@
 18 - Operadores pt 04 - Lógicos OR
 19 - Operadores pt 05 - Atribuição
 20 - Estruturas Condicionais pt 01 - IF
-
-
-
+21 - Estruturas Condicionais pt 02 - ELSE IF
 
