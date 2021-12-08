@@ -25,4 +25,5 @@
 24 - Estruturas Condicionais pt 05 - Resolução do exercício;
 25 - Estruturas Condicionais pt 06 - Switch;
 26 - Estruturas Condicionais pt 07 - Switch exercicio;
+27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for;
 
