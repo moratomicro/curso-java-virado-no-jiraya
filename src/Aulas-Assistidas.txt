@@ -22,5 +22,5 @@
 21 - Estruturas Condicionais pt 02 - ELSE IF;
 22 - Estruturas Condicionais pt 03 - Operador ternário;
 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício;
-24 -
-
+24 - Estruturas Condicionais pt 05 - Resolução do exercício
+25 - Estruturas Condicionais pt 06 - Switch

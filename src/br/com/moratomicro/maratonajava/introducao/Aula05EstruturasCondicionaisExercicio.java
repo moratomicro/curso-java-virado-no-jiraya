@@ -2,7 +2,7 @@ package br.com.moratomicro.maratonajava.introducao;
 
 public class Aula05EstruturasCondicionaisExercicio {
     public static void main(String[] args) {
-        double salarioAnual = 25000;
+        double salarioAnual = 100000;
         double primeiraFaixa = (salarioAnual * 9.70) / 100;
         double segundaFaixa  = (salarioAnual * 37.35) / 100;
         double terceiraFaixa = (salarioAnual * 49.50) / 100;
@@ -15,6 +15,6 @@ public class Aula05EstruturasCondicionaisExercicio {
         }else{
             valorDoImposto = terceiraFaixa;
         }
-        System.out.println("Salário anual = R$ " +valorDoImposto);
+        System.out.println("Total de impostos pagos é = R$ " +valorDoImposto);
     }
 }
