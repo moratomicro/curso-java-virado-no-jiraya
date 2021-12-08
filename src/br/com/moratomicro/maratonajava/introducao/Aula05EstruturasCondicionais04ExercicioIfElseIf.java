@@ -1,6 +1,6 @@
 package br.com.moratomicro.maratonajava.introducao;
 
-public class Aula05EstruturasCondicionaisExercicio {
+public class Aula05EstruturasCondicionais04ExercicioIfElseIf {
     public static void main(String[] args) {
         double salarioAnual = 100000;
         double primeiraFaixa = (salarioAnual * 9.70) / 100;
