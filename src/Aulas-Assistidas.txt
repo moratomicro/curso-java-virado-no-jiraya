@@ -27,5 +27,5 @@
 26 - Estruturas Condicionais pt 07 - Switch exercicio;
 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for;
 28 - Estruturas de Repetição pt 02 - Exercício for;
-
-
+29 - Estruturas de Repetição pt 03 - Break;
+30 - Estruturas de Repetição pt 04 - Exercício Break;
