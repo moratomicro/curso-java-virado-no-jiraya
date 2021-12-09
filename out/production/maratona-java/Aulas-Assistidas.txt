@@ -29,3 +29,4 @@
 28 - Estruturas de Repetição pt 02 - Exercício for;
 29 - Estruturas de Repetição pt 03 - Break;
 30 - Estruturas de Repetição pt 04 - Exercício Break;
+31 - Estruturas de Repetição pt 05 - Continue;
