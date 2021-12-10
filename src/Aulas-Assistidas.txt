@@ -31,3 +31,4 @@
 30 - Estruturas de Repetição pt 04 - Exercício Break;
 31 - Estruturas de Repetição pt 05 - Continue;
 32 - Arrays pt 01;
+33 - Arrays pt 02;
