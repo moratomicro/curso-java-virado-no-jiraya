@@ -1,6 +1,7 @@
 package br.com.moratomicro.maratonajava.introducao;
 
-public class Aula08ArraysMultidimensionais01 {
+public class
+Aula08ArraysMultidimensionais01 {
     public static void main(String[] args) {
         // 1,2,3,4,5 => Meses
         // 31,28,31,30 => dias dos Meses
@@ -21,6 +22,13 @@ public class Aula08ArraysMultidimensionais01 {
         for (int[] dia : dias) {
             for (int j = 0; j < dias[0].length; j++) {
                 System.out.println(dia[j]);
+            }
+        }
+        System.out.println("______________________________________________");
+
+        for(int[] arrBase: dias){
+            for(int num: arrBase){
+                System.out.println(num);
             }
         }
     }

@@ -33,5 +33,6 @@
 32 - Arrays pt 01;
 33 - Arrays pt 02;
 34 - Arrays pt 03;
-35 - Arrays pt 04 - For;
+35 - Arrays pt 04 - Foreach;
 36 - Arrays Multidimensionais pt 01;
+37 - Arrays Multidimensionais pt 02 - Foreach;
