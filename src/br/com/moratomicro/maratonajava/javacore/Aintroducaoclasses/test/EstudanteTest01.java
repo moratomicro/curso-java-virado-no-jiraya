@@ -1,8 +1,8 @@
-package br.com.moratomicro.maratonajava.javacore.introducaoclasses.test;
+package br.com.moratomicro.maratonajava.javacore.Aintroducaoclasses.test;
 
-import br.com.moratomicro.maratonajava.javacore.introducaoclasses.dominio.Estudante;
+import br.com.moratomicro.maratonajava.javacore.Aintroducaoclasses.dominio.Estudante;
 
-public class EstudanteTest1 {
+public class EstudanteTest01 {
     public static void main(String[] args) {
         Estudante estudante = new Estudante();
         estudante.nome = "Reine";

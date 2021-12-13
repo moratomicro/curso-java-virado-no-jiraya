@@ -37,5 +37,6 @@
 36 - Arrays Multidimensionais pt 01;
 37 - Arrays Multidimensionais pt 02 - Foreach;
 38 - Arrays Multidimensionais pt 03 - Inicialização;
-39 - Orientação a Objetos pt 01;
+39 - Orientação a Objetos - Introdução classes pt 01;
+40 - Orientação a Objetos - Introdução classes pt 02 ;
 
