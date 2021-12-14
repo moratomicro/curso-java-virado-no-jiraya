@@ -42,4 +42,5 @@
 41 - Orientação a Objetos - Coesão;
 42 - Orientação a Objetos - Exercício Classes;
 43 - Orientação a Objetos - Referência de objetos;
-43 - Orientação a Objetos - Métodos pt 01;
+44 - Orientação a Objetos - Métodos pt 01;
+45 - Orientação a Objetos - Métodos pt 02 - Parãmetros;
