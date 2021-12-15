@@ -22,7 +22,12 @@ public class EstudanteTest01 {
         System.out.println("Imprimindo estudante 02 - Passado por Referência");
         impressora.imprime(estudante02);
 
-        System.out.println("--------------estudante01 - Passado por Parãmetro-----------");
+        System.out.println("#####################################");
+        impressora.imprime(estudante01);
+
+        impressora.imprime(estudante02);
+
+        /*System.out.println("--------------estudante01 - Passado por Parãmetro-----------");
         System.out.println(estudante01.nome);
         System.out.println(estudante01.idade);
         System.out.println(estudante01.sexo);
@@ -30,7 +35,6 @@ public class EstudanteTest01 {
         System.out.println("---------------estudante02 - Passado por Parãmetro------------");
         System.out.println(estudante02.nome);
         System.out.println(estudante02.idade);
-        System.out.println(estudante02.sexo);
-
+        System.out.println(estudante02.sexo);*/
     }
 }

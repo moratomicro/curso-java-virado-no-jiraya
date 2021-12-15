@@ -43,8 +43,9 @@
 42 - Orientação a Objetos - Exercício Classes;
 43 - Orientação a Objetos - Referência de objetos;
 44 - Orientação a Objetos - Métodos pt 01;
-45 - Orientação a Objetos - Métodos pt 02 - Parãmetros;
+45 - Orientação a Objetos - Métodos pt 02 - Parâmetros;
 46 - Orientação a Objetos - Métodos pt 03 - Retorno pt 01;
 47 - Orientação a Objetos - Métodos pt 04 - Retorno pt 02;
-48 - Orientação a Objetos - Métodos pt 05 - Parãmetros tipo primitivo;
-49 - Orientação a Objetos - Métodos pt 06 - Parãmetros tipo referência;
+48 - Orientação a Objetos - Métodos pt 05 - Parâmetros tipo primitivo;
+49 - Orientação a Objetos - Métodos pt 06 - Parâmetros tipo referência;
+50 - Orientação a Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02;
