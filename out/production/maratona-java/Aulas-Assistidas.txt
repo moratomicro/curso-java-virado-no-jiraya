@@ -46,3 +46,4 @@
 45 - Orientação a Objetos - Métodos pt 02 - Parãmetros;
 46 - Orientação a Objetos - Métodos pt 03 - Retorno pt 01;
 47 - Orientação a Objetos - Métodos pt 04 - Retorno pt 02;
+48 - Orientação a Objetos - Métodos pt 05 - Parãmetros tipo primitivo;
