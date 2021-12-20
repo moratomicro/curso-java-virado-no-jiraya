@@ -52,4 +52,5 @@
 51 - Orientação a Objetos - Métodos pt 08 - Referência this;
 52 - Orientação a Objetos - Métodos pt 09 - Varargs;
 53 - Orientação a Objetos - Métodos pt 10 - Exercise;
-53 - Orientação a Objetos - Modificador de acesso private, get e set pt 01;
+54 - Orientação a Objetos - Modificador de acesso private, get e set pt 01;
+55 - Orientação a Objetos - Modificador de acesso private, get e set pt 02;
