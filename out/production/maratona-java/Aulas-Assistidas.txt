@@ -59,3 +59,4 @@
 58 - Orientação a Objetos - Construtores pt 01;
 59 - Orientação a Objetos - Construtores pt 02 - Sobrecarga;
 60 - Orientação a Objetos - Blocos de Inicialização;
+61 - Orientação a Objetos - Modificador static;
