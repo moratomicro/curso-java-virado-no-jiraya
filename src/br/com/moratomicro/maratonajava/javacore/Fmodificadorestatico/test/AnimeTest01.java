@@ -1,6 +1,6 @@
 package br.com.moratomicro.maratonajava.javacore.Fmodificadorestatico.test;
 
-import br.com.moratomicro.maratonajava.javacore.Fmodificadorestatico.domain.Anime;
+import br.com.moratomicro.maratonajava.javacore.Fmodificadorestatico.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package br.com.moratomicro.maratonajava.javacore.Fmodificadorestatico.test;
 
-import br.com.moratomicro.maratonajava.javacore.Fmodificadorestatico.domain.Carro;
+import br.com.moratomicro.maratonajava.javacore.Fmodificadorestatico.dominio.Carro;
 
 public class CarroTest01 {
     public static void main(String[] args) {

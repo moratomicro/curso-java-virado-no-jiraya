@@ -62,3 +62,4 @@
 61 - Orientação a Objetos - Modificador static;
 62 - Orientação a Objetos - Métodos estáticos;
 63 - Orientação a Objetos - Bloco de inicialização estático;
+64 - Orientação a Objetos - Associação pt 01 - Arrays com Objetos;

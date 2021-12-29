@@ -1,4 +1,4 @@
-package br.com.moratomicro.maratonajava.javacore.Fmodificadorestatico.domain;
+package br.com.moratomicro.maratonajava.javacore.Fmodificadorestatico.dominio;
 
 public class Anime {
     private String nome;

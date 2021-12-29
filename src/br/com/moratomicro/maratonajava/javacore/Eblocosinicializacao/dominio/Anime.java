@@ -1,4 +1,4 @@
-package br.com.moratomicro.maratonajava.javacore.Eblocosinicializacao.domain;
+package br.com.moratomicro.maratonajava.javacore.Eblocosinicializacao.dominio;
 
 public class Anime {
     private String nome;
