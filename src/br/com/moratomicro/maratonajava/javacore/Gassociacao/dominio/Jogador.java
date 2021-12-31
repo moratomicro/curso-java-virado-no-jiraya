@@ -7,7 +7,7 @@ public class Jogador {
     public void imprime(){
         System.out.println(this.nome);
         if(time != null){
-            System.out.println(time.getNome());
+            System.out.println("Seleção: " +time.getNome());
         }
     }
 
