@@ -66,3 +66,4 @@
 65 - Orientação a Objetos - Associação pt 02 - Associação unidirecional um para muitos;
 66 - Orientação a Objetos - Associação pt 03 - Associação unidirecional muitos para um;
 67 - Orientação a Objetos - Associação pt 04 - Associação bidirecional;
+68 - Orientação a Objetos - Leitura de dados pelo console;
