@@ -70,3 +70,4 @@
 69 - Orientação a Objetos - Exercício - Leitura de dados pelo console;
 70 - Orientação a Objetos - Associação pt 05 - Exercício Associação;
 71 - Orientação a Objetos - Herança pt 01;
+72 - Orientação a Objetos - Herança pt 02 - Super;
